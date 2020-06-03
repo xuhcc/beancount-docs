@@ -1,0 +1,5 @@
+title: Beancount Documentation
+description: Auto-generated markdown version
+
+gems:
+  - jekyll-redirect-from
